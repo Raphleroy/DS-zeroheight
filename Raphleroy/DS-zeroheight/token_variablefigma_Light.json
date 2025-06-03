@@ -1,0 +1,28 @@
+{
+  "Light blue": {
+    "$type": "color",
+    "$value": "#4e6cff"
+  },
+  "White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "blue": {
+    "$type": "color",
+    "$value": "#001db1"
+  },
+  "padding": {
+    "right & left": {
+      "$type": "number",
+      "$value": 10
+    },
+    "top & bottom": {
+      "$type": "number",
+      "$value": 5
+    }
+  },
+  "red": {
+    "$type": "color",
+    "$value": "#ef4343"
+  }
+}
